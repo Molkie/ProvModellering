@@ -1,0 +1,11 @@
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\bin\Debug\netcoreapp2.1\ProvModellering.deps.json
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\bin\Debug\netcoreapp2.1\ProvModellering.runtimeconfig.json
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\bin\Debug\netcoreapp2.1\ProvModellering.runtimeconfig.dev.json
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\bin\Debug\netcoreapp2.1\ProvModellering.dll
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\bin\Debug\netcoreapp2.1\ProvModellering.pdb
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\obj\Debug\netcoreapp2.1\ProvModellering.csprojAssemblyReference.cache
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\obj\Debug\netcoreapp2.1\ProvModellering.csproj.CoreCompileInputs.cache
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\obj\Debug\netcoreapp2.1\ProvModellering.AssemblyInfoInputs.cache
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\obj\Debug\netcoreapp2.1\ProvModellering.AssemblyInfo.cs
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\obj\Debug\netcoreapp2.1\ProvModellering.dll
+C:\Users\melker.linde\Documents\GitHub\ProvModellering\ProvModellering\ProvModellering\obj\Debug\netcoreapp2.1\ProvModellering.pdb
